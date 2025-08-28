@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 FastAPI Task Manager API
 
 This project is a **Task Manager REST API** built with **FastAPI**.  
@@ -29,3 +30,6 @@ cd path\to\task-manager-api
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 pip install -r requirements.txt
+=======
+# RESTAPI-with-python
+>>>>>>> f9920fde588c9e2ffc8a817c44469f5207cddb79
